@@ -4,7 +4,7 @@ An app that will allow users to create, share and watch lists of YouTube channel
 
 # Contributing
 
-Read through our  [contributing guidelines](CONTRIBUTING.md) to learn how you can help make Listd better.
+Read through our [contributing guidelines](CONTRIBUTING.md) to learn how you can help make Listd better.
 
 # License
 
